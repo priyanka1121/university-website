@@ -1,4 +1,4 @@
-# university-website
+# University-Website
 
 This is clean, modern and responsive HTML5 website that has beautiful design and  features. 
 
@@ -17,6 +17,7 @@ Main Features:
 12. Google Web Fonts
 13. Compatible With Major Modern Browsers  
 
+![Screenshot](about.png)
 
 
 
