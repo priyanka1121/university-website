@@ -18,7 +18,7 @@ Main Features:
 12. Google Web Fonts
 13. Compatible With Major Modern Browsers  
 
-[![Netlify Status]](https://university-responsive.netlify.app)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/35077d3c-c060-4809-b7cb-f4fb65cfdb0c/deploy-status)](https://app.netlify.com/sites/university-responsive/deploys)
 
 
 
